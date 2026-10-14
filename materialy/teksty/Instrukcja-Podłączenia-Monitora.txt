@@ -1,0 +1,11 @@
+Upewnij się, że urządzenia są wyłączone przed podłączeniem kabli.
+
+Podłącz jeden koniec przewodu HDMI do portu HDMI w laptopie.
+
+Podłącz drugi koniec przewodu HDMI do portu HDMI w monitorze.
+
+Włącz monitor i w jego menu wybierz odpowiednie źródło obrazu HDMI.
+
+Włącz laptop i przejdź do ustawień ekranu w systemie operacyjnym.
+
+Sprawdź aktualną rozdzielczość i dostosuj ją do zaleceń systemu.
