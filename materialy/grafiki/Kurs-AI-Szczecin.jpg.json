@@ -1,0 +1,11 @@
+{
+  "tytul": "Przykładowa grafika",
+  "opis": "Prompt: Wygeneruj grafikę kurs AI Szczecin",
+  "narzedzia": [
+    "Gemini"
+  ],
+  "szczegoly": "Testowa Grafika",
+  "prompt": "Wygeneruj grafikę kurs AI Szczecin",
+  "refleksja": "Zamieszczania plików na GitHub",
+  "data": "2026-10-14"
+}
