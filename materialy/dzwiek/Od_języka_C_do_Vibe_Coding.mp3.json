@@ -1,0 +1,11 @@
+{
+  "tytul": "Podcast na temat języków programowania",
+  "opis": "Przedstawiony plik dźwiękowy jest wygenerowany za pomocą Gemini Notebook wybierając opcję Audio Overview",
+  "narzedzia": [
+    "Gemini Notebook"
+  ],
+  "szczegoly": "",
+  "prompt": "",
+  "refleksja": "Nauczyłem się korzystania z AI które przyśpiesza pracę w tworzeniu podsumowań, oraz obróbka ich na dane użytkowe(np.Podcast)",
+  "data": "2026-10-20"
+}
