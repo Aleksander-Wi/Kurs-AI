@@ -1,0 +1,11 @@
+{
+  "tytul": "Wizualizacja Sali Lekcyjnej",
+  "opis": "Próba jak najbardziej rzetelnego wygenerowania sali lekcyjnej przy użyciu AI",
+  "narzedzia": [
+    "Chat GPT"
+  ],
+  "szczegoly": "",
+  "prompt": "wygeneruj grafikę sali lekcyjnej, okna są częściowo zasłonięte a za nimi widać tylko zimne niebo, w sali jest ciemno, sala ma podłogę w kolorze szaro-wyblakło niebieskim, sala jest w kształcie prostokąta wejście do sali jest od strony krótszego boku oraz biurka dla uczniów są ustawione wzdłuż wejścia do kolejnego krótszego boku prostokąta, na biurkach są komputery wraz z klawiaturami oraz myszkami, na końcu sali w prawym dalekim rogu(według drzwi) jest biurko nauczyciele, za biurkiem jest biała tablica, w przeciwnym rogu do biurka jest płachta dla projektora a projektor jest powieszone na środku sali na suficie, okna są po prawej stronie od wejścia do sali, kolory ścian to wyblakły jasny niebieski, kolor ściany za biurkiem nauczyciele to ciemny szary, kolory biurek to jasno pomarańczowy(drewno)",
+  "refleksja": "",
+  "data": "2026-10-22"
+}
